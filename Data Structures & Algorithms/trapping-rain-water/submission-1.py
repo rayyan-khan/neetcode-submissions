@@ -1,3 +1,4 @@
+# inefficient but correct. Too inefficient to pass all the test cases.
 class Solution:
     def trap(self, height: List[int]) -> int:
         running_total = 0
